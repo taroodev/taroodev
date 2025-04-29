@@ -92,8 +92,15 @@ Me apasiona el aprendizaje continuo, el desarrollo **Frontend**, **Backend** y t
 ---
 
 # 📫 Contáctame
+¿Tienes un proyecto en mente, alguna colaboración, o simplemente quieres charlar sobre tecnología, desarrollo o cualquier tema interesante?
+¡Será un placer conectar contigo! Puedes contactarme a través de:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taroodev15@gmail.com)
+
+
+
+
+📧 **Email:** [taroodev15@gmail.com](mailto:taroodev15@gmail.com)
+
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@taroodev15)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taro_l5)
