@@ -23,7 +23,6 @@ Me apasiona el aprendizaje continuo, el desarrollo **Frontend**, **Backend** y t
 - 🤖 **Inteligencia Artificial y Machine Learning**: Innovar resolviendo problemas reales.
 - 🎨 **Diseño UI/UX**: Crear experiencias digitales intuitivas y memorables.
 <br>
----
 
 # 🌱 Actualmente Aprendiendo
 
@@ -31,7 +30,6 @@ Me apasiona el aprendizaje continuo, el desarrollo **Frontend**, **Backend** y t
 - **Integraciones con ElevenLabs**: Conexión de voz con agentes de IA conversacional.
 - **Model Context Protocol (MCP)**: Optimización de interacciones avanzadas con modelos de lenguaje (LLMs) como GPT.
 <br>
----
 
 # 🛠️ Lenguajes, Herramientas y Tecnologías
 
