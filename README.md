@@ -38,10 +38,6 @@ Me apasiona el aprendizaje continuo, el desarrollo **Frontend**, **Backend** y t
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="200">
-
-<br><br>
-
 
 <h3>Lenguajes de Programación</h3>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -104,19 +100,18 @@ Me apasiona el aprendizaje continuo, el desarrollo **Frontend**, **Backend** y t
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taro_l5)
 
 ---
-
+# Curiosidades sobre mi 
 
 - 🪴 Me encanta la **naturaleza** y disfrutar de **excursiones** al aire libre.
 - 🎨 Disfruto **dibujar** y plasmar ideas creativas en papel.
 - 📚 Siempre estoy buscando **aprender algo nuevo** cada día.
-- 🏋️‍♂️ Me gusta practicar **calistenia** y disfrutar del **anime**  en mi tiempo libre.
+- 🏋️‍♂️ Me gusta practicar **calistenia**
+- 🍿 disfrutar del **anime**  en mi tiempo libre.
 
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="200">
-</p>
+
 
 
 
