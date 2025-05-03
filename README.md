@@ -100,6 +100,14 @@ Me apasiona el aprendizaje continuo, el desarrollo **Frontend**, **Backend** y t
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taro_l5)
 
 ---
+
+
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 # Curiosidades sobre mi 
 
 - 🪴 Me encanta la **naturaleza** y disfrutar de **excursiones** al aire libre.
