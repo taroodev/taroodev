@@ -61,6 +61,7 @@ Me apasiona el aprendizaje continuo, el desarrollo **Frontend**, **Backend** y t
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/strapiio/strapiio-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 
 <br><br>
