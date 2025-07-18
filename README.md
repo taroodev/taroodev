@@ -4,10 +4,10 @@
 </p>
 
 
-¡Hola! Soy **Jhon Heybrajan**, aunque muchos me conocen como **Taroo Dev**.Soy un apasionado por la tecnología y el desarrollo de software, originario de **Bolivia** .
+¡Hola! Soy **Jhon Heybrajan**, aunque muchos me conocen como **Taroo **.Soy un apasionado por la tecnología y el desarrollo de software, originario de **Bolivia** .
 
-Comencé estudiando **Ingeniería Civil** durante dos años, pero mi pasión por la tecnología me llevó a cambiar de rumbo.Tras mudarme a **España** para obtener la doble nacionalidad, me formé en el área tecnológica:
-Completé un curso de **Frontend** y estoy  Finalizando un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Comencé estudiando **Ingeniería Civil** durante dos años, pero mi pasión por la tecnología me llevó a cambiar de rumbo.Tras mudarme a **España** para obtener la  nacionalidad, me formé en el área tecnológica:
+Completé un curso de **Frontend** y estudie un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 Mi objetivo es combinar mis conocimientos para crear soluciones que tengan un impacto real en las personas.  
 Me apasiona el aprendizaje continuo, el desarrollo **Frontend**, **Backend** y todo lo relacionado con la construcción de software.
@@ -29,6 +29,7 @@ Me apasiona el aprendizaje continuo, el desarrollo **Frontend**, **Backend** y t
 - **Strapi CMS**: Creación de APIs flexibles para proyectos web y móviles.
 - **Integraciones con ElevenLabs**: Conexión de voz con agentes de IA conversacional.
 - **Model Context Protocol (MCP)**: Optimización de interacciones avanzadas con modelos de lenguaje (LLMs) como GPT.
+- **creacion de agentes con LangGraph**
 <br>
 
 # 🛠️ Lenguajes, Herramientas y Tecnologías
