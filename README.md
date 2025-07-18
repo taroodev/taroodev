@@ -4,7 +4,7 @@
 </p>
 
 
-¡Hola! Soy **Jhon Heybrajan**, aunque muchos me conocen como **Taroo **.Soy un apasionado por la tecnología y el desarrollo de software, originario de **Bolivia** .
+¡Hola! Soy **Jhon Heybrajan**, aunque muchos me conocen como **Taroo**.Soy un apasionado por la tecnología y el desarrollo de software, originario de **Bolivia** .
 
 Comencé estudiando **Ingeniería Civil** durante dos años, pero mi pasión por la tecnología me llevó a cambiar de rumbo.Tras mudarme a **España** para obtener la  nacionalidad, me formé en el área tecnológica:
 Completé un curso de **Frontend** y estudie un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
