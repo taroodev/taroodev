@@ -33,8 +33,8 @@ Mi objetivo es seguir creciendo como profesional en el ámbito del **desarrollo 
 <div align="center">
 
 
+---
 <br><br>
-
 <h3>Lenguajes de Programación</h3>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
@@ -81,7 +81,7 @@ Mi objetivo es seguir creciendo como profesional en el ámbito del **desarrollo 
 
 
 <br><br>
----
+
 
 ---
 
